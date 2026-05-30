@@ -13,6 +13,7 @@
 |---|---|
 | [`index.html`](index.html) | 科普+财务长文（8000+ 字，含 SVG 图表）。在线版见上方链接 |
 | [`research/07_final_report.md`](research/07_final_report.md) | **正式研究报告**（16 节方法论模板：三表+分部+会计政策激进度评分+到期墙+论点/反方+悬而未决） |
+| [`research/08_deck_gapfill.md`](research/08_deck_gapfill.md) | **投资者 Deck 查漏补缺**（2026-05 Noble deck：Finland 28% 权益真相、单位经济、10年目标、deck vs 审计现实对照） |
 | [`research/00_filings_classification.md`](research/00_filings_classification.md) | 2023–2026 全部 filings 分类存档（导航索引） |
 | [`research/04_financials_three_years.md`](research/04_financials_three_years.md) | FY2023–FY2025 三表 + 分部 + 数据陷阱提示 |
 | [`research/05_changes_datacenter_xrp.md`](research/05_changes_datacenter_xrp.md) | 会计/分类变更、业务转型、数据中心核算、XRP 处理 |
